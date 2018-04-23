@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="rcm"
+  id="myeclipse.1454817149064"
+  context-root="/rcm"
+  j2ee-spec="5.0"
+  archive="rcm.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
